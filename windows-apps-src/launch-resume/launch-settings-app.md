@@ -385,11 +385,6 @@ Use the following URIs to open various pages of the Settings app.
    <td></td>
  </tr>
  <tr>
-  <td>Sounds</td>
-   <td>ms-settings:sounds</td>
-   <td></td>
- </tr>
- <tr>
   <td>Lock screen</td>
    <td>ms-settings:lockscreen</td>
    <td></td>
@@ -544,6 +539,11 @@ Use the following URIs to open various pages of the Settings app.
  <tr>
   <td>Display</td>
     <td>ms-settings:display</td>
+  <td></td>
+ </tr>
+ <tr>
+  <td>Sound</td>
+    <td>ms-settings:sound</td>
   <td></td>
  </tr>
  <tr>
